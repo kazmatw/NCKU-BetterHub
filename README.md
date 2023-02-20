@@ -1,1 +1,1 @@
-# ncku-course-rate
+# ncku_course_rate
