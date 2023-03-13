@@ -2,9 +2,10 @@
 
 - Created and engineered a program that automates the retrieval of course information and utilizes data analysis to streamline the course selection process for students and faculty, resulting in increased efficiency and accuracy
 
-- Enhanced the course selection experience for National Cheng Kung University students, **resulting in an 80% reduction in selection time and a 50% improvement in course matching accuracy** through the implementation of a custom-built program
+- Enhanced the course selection experience for National Cheng Kung University students, `resulting in an 80% reduction in selection time and a 50% improvement in course matching accuracy` through the implementation of a custom-built program
 
 ## Development Environment
+- Using Firefox instead of Google Chrome may be necessary when using Selenium, as the choice of browser may be affected by the user's operating system. In my case, I chose Firefox due to some bugs present in Google Chrome.
 
 ```bash
 $ gcc --version
