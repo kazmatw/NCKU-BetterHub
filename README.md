@@ -40,8 +40,7 @@ NUMA node0 CPU(s):     0-7
 
 ## Installation
 
-You can easily run this program by entering the following command on your terminal.
-1. Clone the repository, Or enter the following command in your terminal:
+1. Clone the repository, or enter the following command in your terminal:
 ```shell
 git clone https://github.com/kingkazma1109/NCKU-BetterHub.git
 ```
