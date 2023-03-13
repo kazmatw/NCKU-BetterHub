@@ -36,3 +36,30 @@ L2:                    2 MiB (4 instances)
 L3:                    6 MiB (1 instance)
 NUMA node0 CPU(s):     0-7
 ```
+
+## Installation
+
+You can easily run this program by entering the following command on your terminal.
+1. Clone the repository, Or enter the following command in your terminal:
+```shell
+git clone https://github.com/kingkazma1109/NCKU-BetterHub.git
+```
+2. Run the project.
+
+## Usage
+1. This program will retrieve the latest course data from [NCKU HUB](https://nckuhub.com/) and convert it into a CSV file. 
+2. Once you have the CSV file, you can easily sort the data by any column you like. 
+3. You can also open the file with Excel or other tools to apply more complex filters to the course data. 
+4. We are still working on the filtering function and user interface, which will be available soon.
+
+
+## Contributing
+Contributions are welcome! Please follow these guidelines when contributing:
+
+1. Fork the repository and create a new branch.
+2. Make your changes and commit them with a descriptive message.
+3. Push your changes to your forked repository.
+4. Create a pull request with a detailed description of your changes.
+
+## Contact
+Please contact 901109danny@gmail.com with any questions or issues.
